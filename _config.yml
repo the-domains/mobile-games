@@ -1,6 +1,6 @@
 name: Mobile Games
 favicon: null
-layout_spectrum: 0.37759
+layout_spectrum: 0.35
 typography_spectrum: 0.6095831035636365
 title: F2P Mobile Games
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6875
+  brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.75
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
