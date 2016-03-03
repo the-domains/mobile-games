@@ -1,0 +1,28 @@
+name: Mobile Games
+favicon: null
+layout_spectrum: 0.7527167277876288
+typography_spectrum: 0.6095831035636365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9439608522225171
+  lightness: 0.04995125927962363
+  saturation: 0.8536743160802871
+  rhythmicContrast: 0.0931724845431745
+purpose: []
